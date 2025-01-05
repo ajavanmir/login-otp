@@ -116,28 +116,3 @@ fetch("action/send-otp.php", {
     console.log(error);
 });
 ```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-```
-
----
-
-### توضیحات:
-1. **بلوک کد PHP**: کد PHP مربوط به تأیید OTP در یک بلوک کد قرار گرفته است.
-2. **بلوک کد JavaScript**: کد JavaScript مربوط به ارسال OTP در یک بلوک کد دیگر قرار گرفته است.
-3. **ساختار Markdown**: از ` ```php ` و ` ```javascript ` برای نمایش کدها به صورت رنگی و خوانا استفاده شده است.
-
-با این روش، کدها به صورت زیبا و خوانا در فایل `README.md` نمایش داده می‌شوند.
